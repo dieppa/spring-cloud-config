@@ -1,5 +1,7 @@
 service:
   name: new name
-  name2: totally new name
+  object_new: 
+    name: totally new name
+    surname: surname
 server:
   port: 8200
