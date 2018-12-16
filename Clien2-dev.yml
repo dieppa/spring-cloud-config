@@ -1,3 +1,4 @@
 name: Client2 Service
+dummy-change: new-value
 server:
   port: 8201
