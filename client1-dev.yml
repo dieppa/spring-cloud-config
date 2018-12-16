@@ -1,4 +1,5 @@
 service:
-  name: Client1 Service
+  name: new name
+  name2: totally new name
 server:
   port: 8200
