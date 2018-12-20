@@ -1,7 +1,3 @@
-service:
-  name: new name
-  object_new: 
-    name: totally new name
-    surname: surname
+property1: value_1
 server:
   port: 8200
